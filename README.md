@@ -1,5 +1,7 @@
 <h1>Лабораторная работа №7</h1>
 
+<h3>Ссылка на <a href="https://docs.google.com/document/d/13E3qH3iJEd2o80apJ9gZ67uqVlZita4Xv4XGZ4IS3NI/edit">задание</a></h3>
+
 <h2>Ответы на вопросы:</h2>
 <h3>7.1.2) Объяснить вкратце как работает async/await.
 Async указывает, что метод имеет асинхронные операции.
