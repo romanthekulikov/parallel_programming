@@ -1,5 +1,7 @@
 <h1>Лабораторная работа №6</h1>
 
+<h3>Ссылка на <a href="https://docs.google.com/document/d/1P2lni1rCLcSQxgWcpaev72crc-1oQBObZDCC2qtpdGE/edit">задание</a></h3>
+
 <h2>Ответы на вопросы:</h2>
 <h3>2) Рассказать про for, reduction, parallel, atomic. 
 parallel for разбивает цикл на потоки, каждый поток делает свою часть от цикла.
